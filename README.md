@@ -36,7 +36,7 @@ Data was aggregated to the customer level to support behavioral analysis and seg
 * Cluster 4 - Burst Purchase Customers
   * High-monetary, low frequency with short activity spans.
 
-## 6. Business Implications
+## 6. Strategic Considerations
 * Core loyal customers may benefits from personalized communication and loyal-oriented initiatives
 * Inactive Customers could be targeted with proper reactivation measures.
 * High friction customers may be collected for anlyzing product or order features related to returns.
