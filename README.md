@@ -39,7 +39,7 @@ Data was aggregated to the customer level to support behavioral analysis and seg
 ## 6. Strategic Considerations
 * Core loyal customers may benefits from personalized communication and loyal-oriented initiatives
 * Inactive Customers could be targeted with proper reactivation measures.
-* High friction customers may be collected for anlyzing product or order features related to returns.
+* High-friction customers may be examined to identify product or order characteristics associated with higher return rates.
 
 ## 7. Limitations
 This analysis is based solely on historical transaction data from 2011 and does not incorporate customer demographics or external factors.
